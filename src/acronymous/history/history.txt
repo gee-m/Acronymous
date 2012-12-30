@@ -2,12 +2,4 @@
 *** From oldest to most recent:  ***
 ************************************
 
-francais:	bnm
-francais:	bnm
-francais:	bnm,
-francais:	bnm,n
-francais:	bnm,nb	 Chosen Decronym: bnm
-francais:	bnm,nb	 Chosen Decronym: bnmmm	 Chosen Decronym: bnmmm	 Chosen Decronym: 
-francais:	sdfg
-francais:	vhe
-english:	vhe
+english:	hey	 Chosen Decronym: alchemy

@@ -1,7 +1,7 @@
 /*
  * MERINDOL Guillaume 20/12/2012
  * 
- * Program for sister in med school: it 'decronymizes', the goal is memotechnical
+ * Program for sister: it decronymizes, the goal is memotechnical
  * 
  * Version 1.0 : it's working, but menu isn't, copy button isn't, and generateMonoWords isn't.
  * Version 1.1 : generateMonoWords works.

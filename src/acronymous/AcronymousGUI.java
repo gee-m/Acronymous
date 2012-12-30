@@ -6,7 +6,7 @@ import java.awt.event.*;
 import java.io.*;
 import java.awt.print.*;
 
-//TODO make code more self documenting\
+//TODO make code more self documenting
 
 public class AcronymousGUI extends JFrame{
 	/**
@@ -226,7 +226,7 @@ public class AcronymousGUI extends JFrame{
 					
 					String monoWords = dictionaryReader.generateStringOfMonoWords();
 					String polyWords = dictionaryReader.generateStringOfPolyWords();
-					generatedWordsArea.setText(("********************* Voici la liste de mots contenants \"" + acronymInputField.getText() + "\" en eux memes, dans l'ordre: \n\n"
+					generatedWordsArea.setText(("********************* Here is the list of the words that have \"" + acronymInputField.getText() + "\" in themselves, in order: \n\n"
 							+ monoWords + "\n " +
 							"************************************************************************************\n" +
 							"************************************************************************************\n" +
@@ -236,7 +236,7 @@ public class AcronymousGUI extends JFrame{
 							"************************************************************************************\n" +
 							"************************************************************************************\n" +
 							"************************************************************************************\n" +
-							"\n <or>, des mots dont le debut commence par les lettres: " + acronymInputField.getText() + "\n\n" + polyWords));
+							"\n <or>, words with which the beginning start by the letters: " + acronymInputField.getText() + "\n\n" + polyWords));
 					generatedWordsArea.setCaretPosition(0);
 					
 				}

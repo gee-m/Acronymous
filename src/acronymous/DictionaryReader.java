@@ -109,7 +109,6 @@ public class DictionaryReader{
 		}
 		
 		if (monoWords.equals("   ")) {
-			monoWords = "   Desole, je n'ai rien trouve ici, pour ce dictionnaire. \n";
 		}
 
 		return monoWords;
