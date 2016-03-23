@@ -1,1 +1,7 @@
-read me...
+This is a basic program written in JAVA which allows to create a 'sentence' from acronyms.
+
+It can help students to remember key words/phrases.
+
+For example you write DNA, it will blurt out a list of phrases each containing three words that start with D, N, and A respectively.
+
+Available in English or French
